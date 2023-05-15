@@ -29,7 +29,7 @@ if grau_equacao == 2:
             raiz_real = -(b) / 2*a
             #if raiz_real == 0:
                 #raiz_real = 0
-            print(f'A equação possui apenas uma raiz real {raiz_real:,.2f}')
+            print(f'A equação possui uma raiz real {raiz_real:,.2f}')
         else:
             print('A equação possui duas raízes reais')
             raiz_real1 = (-b - (delta**0.5)) / (2*a)
