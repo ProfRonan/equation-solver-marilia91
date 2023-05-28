@@ -1,4 +1,8 @@
+
+
 grau_equacao = float(input('qual o grau da equação? '))
+
+
 
 if grau_equacao < 1 or grau_equacao > 2: 
     print('Grau inválido')
